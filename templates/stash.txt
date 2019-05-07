@@ -1,0 +1,342 @@
+    <!-- Top Bar -->
+    <div id="top-bar" class="style-1">
+        <div id="top-bar-inner" class="wprt-container">
+            <div class="top-bar-inner-wrap">
+                <div class="top-bar-menu">
+                    <ul class="top-bar-nav">
+                        <li><a href="#">FAQS</a></li>
+                        <li><a href="#">About</a></li>
+                        <li><a href="#">Contact</a></li>
+                    </ul>
+                </div><!-- /.top-bar-content -->
+
+                <div class="top-bar-socials">
+                    <div class="icons">
+                        <a href="#" title="Twitter"><span class="fa fa-twitter" aria-hidden="true"></span></a>
+                        <a href="#" title="Facebook"><span class="fa fa-facebook" aria-hidden="true"></span></a>
+                        <a href="#" title="Linkedin"><span class="fa fa-linkedin" aria-hidden="true"></span></a>
+                        <a href="#" title="Google+"><span class="fa fa-google-plus" aria-hidden="true"></span></a>
+                        <a href="#" title="Skype"><span class="fa fa-skype" aria-hidden="true"></span></a>
+                    </div>
+                </div><!-- /.top-bar-socials -->
+            </div>
+        </div>
+    </div><!-- #top-bar -->
+
+
+
+
+
+847--	</div>
+	->news here<-
+	<!-- /.row-servises-1 -->
+
+                    <!-- News 1 -->
+                    <!-- Testimonial -->
+                    <div class="row-testimonials-1">
+                        <div class="wprt-container">
+                            <div class="row">
+                                <div class="col-md-12">
+                                    <div class="wprt-spacer clearfix" data-desktop="87" data-mobi="60" data-smobi="60"></div>
+
+                                    <div class="wprt-headings clearfix text-center">
+                                        <h2 class="heading">Customer Reviews</h2>
+                                        <p class="sub-heading mw-630">All our consultants are highly experienced in their fields and produce excellent outcomes for patients</p>
+                                    </div><!-- /.wprt-headings -->
+
+                                    <div class="wprt-spacer clearfix" data-desktop="16" data-mobi="16" data-smobi="16"></div>
+
+                                    <div class="wprt-carousel-box has-bullets bullet40 bullet-circle text-center" data-auto="true" data-loop="true" data-gap="30" data-column="2" data-column2="2" data-column3="1">
+                                        <div class="owl-carousel owl-theme">
+                                            <div class="wprt-testimonials clearfix style-1">
+                                                <div class="item">
+                                                    <div class="inner">
+                                                        <blockquote class="text">
+                                                            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis ac acumsan ipsum. Suspendisse potenti. Fusce id enim scelerisque pulvinar est sit amet, pellentesque nulla. Integer vel pulvinar quam in commodo est. Pellentesque rutrum sem ut enim tincidunt, ac pharetra quam blandit. Sed luctus purus nec vehicula 
+                                                            <div class="arrow"></div>                                                            
+                                                        </blockquote> 
+                                                        <div class="thumb">
+                                                            <img src="assets/img/clients/client-1.png" alt="Image">
+                                                        </div> 
+
+                                                        <h6 class="name">Justin Forder</h6>
+                                                        <span class="position">Patient</span>
+                                                    </div>
+                                                </div>
+                                            </div><!-- /.wprt-testimonials -->
+
+                                            <div class="wprt-testimonials clearfix style-1">
+                                                <div class="item">
+                                                    <div class="inner">
+                                                        <blockquote class="text">
+                                                            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis ac acumsan ipsum. Suspendisse potenti. Fusce id enim scelerisque pulvinar est sit amet, pellentesque nulla. Integer vel pulvinar quam in commodo est. Pellentesque rutrum sem ut enim tincidunt, ac pharetra quam blandit. Sed luctus purus nec vehicula 
+                                                            <div class="arrow"></div>                                                            
+                                                        </blockquote> 
+                                                        <div class="thumb">
+                                                            <img src="assets/img/clients/client-1.png" alt="Image">
+                                                        </div> 
+
+                                                        <h6 class="name">Justin Forder</h6>
+                                                        <span class="position">Patient</span>
+                                                    </div>
+                                                </div>
+                                            </div><!-- /.wprt-testimonials -->
+
+                                            <div class="wprt-testimonials clearfix style-1">
+                                                <div class="item">
+                                                    <div class="inner">
+                                                        <blockquote class="text">
+                                                            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis ac acumsan ipsum. Suspendisse potenti. Fusce id enim scelerisque pulvinar est sit amet, pellentesque nulla. Integer vel pulvinar quam in commodo est. Pellentesque rutrum sem ut enim tincidunt, ac pharetra quam blandit. Sed luctus purus nec vehicula 
+                                                            <div class="arrow"></div>                                                            
+                                                        </blockquote> 
+                                                        <div class="thumb">
+                                                            <img src="assets/img/clients/client-1.png" alt="Image">
+                                                        </div> 
+
+                                                        <h6 class="name">Justin Forder</h6>
+                                                        <span class="position">Patient</span>
+                                                    </div>
+                                                </div>
+                                            </div><!-- /.wprt-testimonials -->
+
+                                            <div class="wprt-testimonials clearfix style-1">
+                                                <div class="item">
+                                                    <div class="inner">
+                                                        <blockquote class="text">
+                                                            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis ac acumsan ipsum. Suspendisse potenti. Fusce id enim scelerisque pulvinar est sit amet, pellentesque nulla. Integer vel pulvinar quam in commodo est. Pellentesque rutrum sem ut enim tincidunt, ac pharetra quam blandit. Sed luctus purus nec vehicula 
+                                                            <div class="arrow"></div>                                                            
+                                                        </blockquote> 
+                                                        <div class="thumb">
+                                                            <img src="assets/img/clients/client-1.png" alt="Image">
+                                                        </div> 
+
+                                                        <h6 class="name">Justin Forder</h6>
+                                                        <span class="position">Patient</span>
+                                                    </div>
+                                                </div>
+                                            </div><!-- /.wprt-testimonials -->
+
+                                            <div class="wprt-testimonials clearfix style-1">
+                                                <div class="item">
+                                                    <div class="inner">
+                                                        <blockquote class="text">
+                                                            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis ac acumsan ipsum. Suspendisse potenti. Fusce id enim scelerisque pulvinar est sit amet, pellentesque nulla. Integer vel pulvinar quam in commodo est. Pellentesque rutrum sem ut enim tincidunt, ac pharetra quam blandit. Sed luctus purus nec vehicula 
+                                                            <div class="arrow"></div>                                                            
+                                                        </blockquote> 
+                                                        <div class="thumb">
+                                                            <img src="assets/img/clients/client-1.png" alt="Image">
+                                                        </div> 
+
+                                                        <h6 class="name">Justin Forder</h6>
+                                                        <span class="position">Patient</span>
+                                                    </div>
+                                                </div>
+                                            </div><!-- /.wprt-testimonials -->
+
+                                            <div class="wprt-testimonials clearfix style-1">
+                                                <div class="item">
+                                                    <div class="inner">
+                                                        <blockquote class="text">
+                                                            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis ac acumsan ipsum. Suspendisse potenti. Fusce id enim scelerisque pulvinar est sit amet, pellentesque nulla. Integer vel pulvinar quam in commodo est. Pellentesque rutrum sem ut enim tincidunt, ac pharetra quam blandit. Sed luctus purus nec vehicula 
+                                                            <div class="arrow"></div>                                                            
+                                                        </blockquote> 
+                                                        <div class="thumb">
+                                                            <img src="assets/img/clients/client-1.png" alt="Image">
+                                                        </div> 
+
+                                                        <h6 class="name">Justin Forder</h6>
+                                                        <span class="position">Patient</span>
+                                                    </div>
+                                                </div>
+                                            </div><!-- /.wprt-testimonials -->
+                                        </div><!-- /.owl-carousel -->
+                                    </div><!-- /.wprt-carousel-box -->
+
+                                    <div class="wprt-spacer clearfix" data-desktop="80" data-mobi="60" data-smobi="60"></div>
+                                </div><!-- /.col-md-12 -->
+                            </div><!-- /.row -->
+                        </div><!-- /.wprt-container -->
+                    </div><!-- /.row-testimonials-1 -->
+
+
+
+
+1091--#<div class="row">
+                                <div class="col-md-12">                                    
+                                    <div class="wprt-spacer clearfix" data-desktop="80" data-mobi="60" data-smobi="60"></div>
+                                </div><!-- /.col-md-12 --> 
+
+                                <div class="col-md-6">   
+                                    <div class="wprt-toggles style-1">
+                                        <div class="toggle-item active">
+                                            <h3 class="toggle-heading">
+                                                <span class="inner">Why should you choose our service?</span>
+                                            </h3>
+                                            <div class="toggle-content">
+                                                <p></p>
+                                            </div>
+                                        </div><!-- /.toggle-item -->
+
+                                        <div class="toggle-item">
+                                            <h3 class="toggle-heading">
+                                                <span class="inner">What are the Centre’s visiting hours?</span>
+                                            </h3>
+                                            <div class="toggle-content">
+                                                <p>For our +50 years' experience of providing healthcare to the local community, superb facilities with continuous investment in facilities and technology and high standards of nursing care and a friendly atmosphere. 99% of our patients who completed our feedback questionnaire rated us as very good.</p>
+                                            </div>
+                                        </div><!-- /.toggle-item -->
+
+                                        <div class="toggle-item">
+                                            <h3 class="toggle-heading">
+                                                <span class="inner">How many visitors are allowed?</span>
+                                            </h3>
+                                            <div class="toggle-content">
+                                                <p>For our +50 years' experience of providing healthcare to the local community, superb facilities with continuous investment in facilities and technology and high standards of nursing care and a friendly atmosphere. 99% of our patients who completed our feedback questionnaire rated us as very good.</p>
+                                            </div>
+                                        </div><!-- /.toggle-item -->
+
+                                        <div class="toggle-item">
+                                            <h3 class="toggle-heading">
+                                                <span class="inner">Where is The Medical Health Centre?</span>
+                                            </h3>
+                                            <div class="toggle-content">
+                                                <p>For our +50 years' experience of providing healthcare to the local community, superb facilities with continuous investment in facilities and technology and high standards of nursing care and a friendly atmosphere. 99% of our patients who completed our feedback questionnaire rated us as very good.</p>
+                                            </div>
+                                        </div><!-- /.toggle-item -->
+
+                                        <div class="toggle-item">
+                                            <h3 class="toggle-heading">
+                                                <span class="inner">What services do you provide?</span>
+                                            </h3>
+                                            <div class="toggle-content">
+                                                <p>For our +50 years' experience of providing healthcare to the local community, superb facilities with continuous investment in facilities and technology and high standards of nursing care and a friendly atmosphere. 99% of our patients who completed our feedback questionnaire rated us as very good.</p>
+                                            </div>
+                                        </div><!-- /.toggle-item -->                                        
+                                    </div><!-- /.wprt-toggles -->
+                                </div><!-- /.col-md-6 -->
+
+
+1165---#footer
+
+<!-- Footer -->
+<footer id="footer">
+    <div id="footer-widgets" class="wprt-container">
+        <div class="wprt-row gutter-30">
+            <div class="span_1_of_3 col">
+                <div class="widget widget_text">
+                    <div class="textwidget">
+                        <img src="assets/img/logo-footer.png"  id="footer-logo" alt="logo">
+                    </div>
+                </div>
+
+                <div class="widget widget_information">
+                    <ul class="clearfix">
+                        <li class="phone">
+                            <i class="fa fa-phone"></i>
+                            <span>Call Us :  +1 718-955-2838</span>
+                        </li>
+                        <li class="address">
+                            <i class="fa fa-map-marker"></i>
+                            <span>123 N Randolph street, Virginia, United States</span>
+                        </li>
+                        <li class="email">
+                            <i class="fa fa-envelope-o"></i>
+                            <span>Contact@construction.com</span>
+                        </li>
+                    </ul>
+                </div> 
+
+                <div class="widget widget_socials">
+                    <div class="socials clearfix">
+                        <div class="icon active">
+                            <a target="_blank" href="#">
+                            <i class="fa fa-twitter"></i></a>
+                        </div>
+
+                        <div class="icon">
+                            <a target="_blank" href="#">
+                            <i class="fa fa-facebook"></i></a>
+                        </div>
+
+                        <div class="icon">
+                            <a target="_blank" href="#"><i class="fa fa-linkedin"></i></a>
+                        </div>
+
+                        <div class="icon">
+                            <a target="_blank" href="#"><i class="fa fa-google-plus"></i></a>
+                        </div>
+
+                        <div class="icon">
+                            <a target="_blank" href="#">
+                            <i class="fa fa-skype"></i></a>
+                        </div>
+                    </div>
+                </div>             
+            </div><!-- /.span_1_of_3 -->
+
+            <div class="span_1_of_3 col">
+                <div class="widget widget_links">
+                    <h2 class="widget-title"><span>navigation</span></h2>
+                    <ul class="wprt-links clearfix col2">
+                        <li><a href="#">Appointment </a></li>
+                        <li><a href="#">Other Specialist Staff</a></li>
+                        <li><a href="#">Patient FAQs</a></li>
+                        <li><a href="#">Healthy Eating</a></li>
+                        <li><a href="#">Our vision and values</a></li>
+                        <li><a href="#">Why Choose Us</a></li>
+                        <li><a href="#">Physiotherapists</a></li>
+                        <li><a href="#">Find a Doctor</a></li>
+                        <li><a href="#">Volunteer roles</a></li>
+                        <li><a href="#">Health Topics</a></li>
+                    </ul>
+                </div>               
+            </div><!-- /.span_1_of_3 -->
+
+            <div class="span_1_of_3 col">
+                <div class="widget widget_recent_news">
+                    <h2 class="widget-title"><span>Recent Posts</span></h2>
+
+                    <ul class="recent-news clearfix">
+                        <li class="clearfix">
+                            <div class="thumb">
+                                <img src="assets/img/news/1-80x80.jpg" alt="image">
+                            </div>
+                                        
+                            <div class="texts">
+                                <h3><a href="#">Why I finally tried therapy and how it changed my life</a></h3> 
+                                <span class="post-date">
+                                    <span class="entry-date">October 16, 2016</span>
+                                </span>
+                            </div>
+                        </li>
+
+                        <li class="clearfix">
+                            <div class="thumb">
+                                <img src="assets/img/news/2-80x80.jpg" alt="image">         
+                            </div>
+                                        
+                            <div class="texts">
+                                <h3><a href="#">Patient Forum – ‘The Joint School Patient Experience’</a></h3> 
+                                <span class="post-date">
+                                    <span class="entry-date">August 16, 2016</span>
+                                </span>
+                            </div>
+                        </li>                        
+                    </ul>
+                </div>             
+            </div><!-- /.span_1_of_3 -->
+        </div>
+    </div><!-- /#footer-widgets -->
+</footer><!-- /#footer -->
+
+
+
+1176--#bottom menu
+
+<div class="bottom-bar-menu">
+                <ul class="bottom-nav">
+                    <li class="menu-item"><a href="#">Home</a></li>
+                    <li class="menu-item"><a href="#">About</a></li>
+                    <li class="menu-item"><a href="#">Contact</a></li>
+                </ul>
+            </div><!-- /.bottom-bar-menu -->
