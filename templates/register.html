@@ -1,14 +1,43 @@
+{% load static from staticfiles %}
 <!DOCTYPE html>
-<html>
-  <head>
-    <title>Регистрация</title>
-  </head>
-  <body>
-    <form action="" method="post">
-      {% csrf_token %}
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-sx`cale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Sign Up Form</title>
+
+    <!-- Font Icon -->
+    <link rel="stylesheet" href="{% static 'register/fonts/material-icon/css/material-design-iconic-font.min.css' %}">
+
+    <!-- Main css -->
+    <link rel="stylesheet" href="{% static 'register/css/style.css' %}">
+</head>
+<body>
+
+    <div class="main">
+
+        <section class="signup">
+            <!-- <img src="images/signup-bg.jpg" alt=""> -->
+            <div class="container">
+                <div class="signup-content">
+                    <form action="" method="post">
+  <!--    {% csrf_token %} -->
       <!-- as_p для того, чтобы каждый элемент формы был с новой строки -->
-      {{ form.as_p }}
-      <button type="submit">Зарегистрироваться</button>
+      {{ form.as_p }}{% csrf_token %}
+      <button type="submit">Register</button>
     </form>
-  </body>
+                    <p class="loginhere">
+                        Have already an account ? <a href="/doctor/register/login" class="loginhere-link">Login here</a>
+                    </p>
+                </div>
+            </div>
+        </section>
+
+    </div>
+
+    <!-- JS -->
+    <script src="{% static 'register/vendor/jquery/jquery.min.js' %}"></script>
+    <script src="{% static ' register/js/main.js' %}"></script>
+</body>
 </html>

@@ -6,10 +6,11 @@ from django.contrib.auth.forms import UserCreationForm
 from django.views.generic.edit import FormView
 from django.contrib.auth.forms import UserCreationForm, AuthenticationForm
 from django.contrib.auth.models import User
+from .forms import RegistrationForm
 
 # Create your views here.
 
-def Helo(request):
+def index(request):
     return render(request, 'index.html')
 
 class RegisterFormView(FormView):
@@ -17,10 +18,10 @@ class RegisterFormView(FormView):
 
     # Ссылка, на которую будет перенаправляться пользователь в случае успешной регистрации.
     # В данном случае указана ссылка на страницу входа для зарегистрированных пользователей.
-    success_url = "/login/"
+    success_url = "doctor/login/"
 
     # Шаблон, который будет использоваться при отображении представления.
-    template_name = "register.html"
+    template_name = "register_def.html"
 
     def form_valid(self, form):
         # Создаём пользователя, если данные в форму были введены корректно.
@@ -51,3 +52,29 @@ def get_users(request):
     users = User.objects.all()
 
     return render(request,'users.html', {'users': users})
+
+def register(request):
+    if request.method == 'POST':
+        form = RegistrationForm(request.POST)
+        if form.is_valid():
+            form.save()
+            return redirect('/doctor/register/login')
+
+    else:
+        form = RegistrationForm()
+
+        args = {'form': form}
+        return render(request, 'register.html', args)
+
+def profile(request):
+    args = {'user': request.user}
+    return render(request, 'page-blog.html')
+
+def timetable(request):
+    return render(request, 'page-time-table.html')
+
+def our_doctors(request):
+    return render(request, 'page-our-doctors.html')
+
+def department(request):
+    return render(request, 'page-department-detail.html')
