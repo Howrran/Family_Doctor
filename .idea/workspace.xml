@@ -2,134 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fce28ed2-5f79-4ada-afcc-78c457bb67f7" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/Doctor/forms.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/templates/register_.html" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/Doctor/form.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Doctor/urls.py" afterPath="$PROJECT_DIR$/Doctor/urls.py" />
+      <change beforePath="$PROJECT_DIR$/Doctor/models.py" afterPath="$PROJECT_DIR$/Doctor/models.py" />
       <change beforePath="$PROJECT_DIR$/Doctor/views.py" afterPath="$PROJECT_DIR$/Doctor/views.py" />
       <change beforePath="$PROJECT_DIR$/db.sqlite3" afterPath="$PROJECT_DIR$/db.sqlite3" />
-      <change beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
-      <change beforePath="$PROJECT_DIR$/static/assets/img/logotyp.png" afterPath="$PROJECT_DIR$/static/assets/img/logotyp.png" />
-      <change beforePath="$PROJECT_DIR$/templates/1/Medical - Health and Medical HTML Template Preview - ThemeForest.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/templates/1/Medical - Health and Medical HTML Template Preview - ThemeForest_files/1-270x200.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/templates/1/Medical - Health and Medical HTML Template Preview - ThemeForest_files/1-360x300.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/templates/1/Medical - Health and Medical HTML Template Preview - ThemeForest_files/1-370x250.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/templates/1/Medical - Health and Medical HTML Template Preview - ThemeForest_files/1-80x80.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/templates/1/Medical - Health and Medical HTML Template Preview - ThemeForest_files/2-270x200.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/templates/1/Medical - Health and Medical HTML Template Preview - ThemeForest_files/2-370x250.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/templates/1/Medical - Health and Medical HTML Template Preview - ThemeForest_files/2-80x80.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/templates/1/Medical - Health and Medical HTML Template Preview - ThemeForest_files/3-270x200.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/templates/1/Medical - Health and Medical HTML Template Preview - ThemeForest_files/3-370x250.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/templates/1/Medical - Health and Medical HTML Template Preview - ThemeForest_files/4-270x200.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/templates/1/Medical - Health and Medical HTML Template Preview - ThemeForest_files/4-360x300.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/templates/1/Medical - Health and Medical HTML Template Preview - ThemeForest_files/5-270x200.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/templates/1/Medical - Health and Medical HTML Template Preview - ThemeForest_files/5-360x300.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/templates/1/Medical - Health and Medical HTML Template Preview - ThemeForest_files/6-270x200.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/templates/1/Medical - Health and Medical HTML Template Preview - ThemeForest_files/6-360x300.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/templates/1/Medical - Health and Medical HTML Template Preview - ThemeForest_files/analytics.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/templates/1/Medical - Health and Medical HTML Template Preview - ThemeForest_files/bootstrap.min.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/templates/1/Medical - Health and Medical HTML Template Preview - ThemeForest_files/client-1.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/templates/1/Medical - Health and Medical HTML Template Preview - ThemeForest_files/countTo.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/templates/1/Medical - Health and Medical HTML Template Preview - ThemeForest_files/ec.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/templates/1/Medical - Health and Medical HTML Template Preview - ThemeForest_files/f(1).txt" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/templates/1/Medical - Health and Medical HTML Template Preview - ThemeForest_files/f.txt" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/templates/1/Medical - Health and Medical HTML Template Preview - ThemeForest_files/fcf8d519de" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/templates/1/Medical - Health and Medical HTML Template Preview - ThemeForest_files/gtm.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/templates/1/Medical - Health and Medical HTML Template Preview - ThemeForest_files/icon-1.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/templates/1/Medical - Health and Medical HTML Template Preview - ThemeForest_files/icon-2.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/templates/1/Medical - Health and Medical HTML Template Preview - ThemeForest_files/icon-3.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/templates/1/Medical - Health and Medical HTML Template Preview - ThemeForest_files/index-004d35cdd5d555cdd3e956d1b916825642de06529f0fe91fd9f390813761d2fc.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/templates/1/Medical - Health and Medical HTML Template Preview - ThemeForest_files/index-212bf71ee40bef81ab31322c82c7357847ede126dcc76b32e47da0b7dba8911f.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/templates/1/Medical - Health and Medical HTML Template Preview - ThemeForest_files/index-a38bf5e5a69c279f522d3b417e7542e5d1cbc7d653efb7fd9d63ac4036312ac6.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/templates/1/Medical - Health and Medical HTML Template Preview - ThemeForest_files/jquery.min.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/templates/1/Medical - Health and Medical HTML Template Preview - ThemeForest_files/jquery.themepunch.revolution.min.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/templates/1/Medical - Health and Medical HTML Template Preview - ThemeForest_files/jquery.themepunch.tools.min.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/templates/1/Medical - Health and Medical HTML Template Preview - ThemeForest_files/linkid.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/templates/1/Medical - Health and Medical HTML Template Preview - ThemeForest_files/logo-footer.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/templates/1/Medical - Health and Medical HTML Template Preview - ThemeForest_files/logo@2x.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/templates/1/Medical - Health and Medical HTML Template Preview - ThemeForest_files/main.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/templates/1/Medical - Health and Medical HTML Template Preview - ThemeForest_files/nr-1118.min.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/templates/1/Medical - Health and Medical HTML Template Preview - ThemeForest_files/owl.carousel.min.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/templates/1/Medical - Health and Medical HTML Template Preview - ThemeForest_files/plugins.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/templates/1/Medical - Health and Medical HTML Template Preview - ThemeForest_files/rev-slider.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/templates/1/Medical - Health and Medical HTML Template Preview - ThemeForest_files/revolution.extension.actions.min.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/templates/1/Medical - Health and Medical HTML Template Preview - ThemeForest_files/revolution.extension.carousel.min.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/templates/1/Medical - Health and Medical HTML Template Preview - ThemeForest_files/revolution.extension.kenburn.min.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/templates/1/Medical - Health and Medical HTML Template Preview - ThemeForest_files/revolution.extension.layeranimation.min.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/templates/1/Medical - Health and Medical HTML Template Preview - ThemeForest_files/revolution.extension.migration.min.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/templates/1/Medical - Health and Medical HTML Template Preview - ThemeForest_files/revolution.extension.navigation.min.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/templates/1/Medical - Health and Medical HTML Template Preview - ThemeForest_files/revolution.extension.parallax.min.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/templates/1/Medical - Health and Medical HTML Template Preview - ThemeForest_files/revolution.extension.slideanims.min.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/templates/1/Medical - Health and Medical HTML Template Preview - ThemeForest_files/revolution.extension.video.min.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/templates/1/Medical - Health and Medical HTML Template Preview - ThemeForest_files/saved_resource.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/templates/1/Medical - Health and Medical HTML Template Preview - ThemeForest_files/shortcodes.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/templates/1/Medical - Health and Medical HTML Template Preview - ThemeForest_files/style.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/templates/1/Medical - Health and Medical HTML Template Preview - ThemeForest_files/uc.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/templates/1/Medical - Health and Medical HTML Template Preview - ThemeForest_files/validate.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/templates/assets/css/animate.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/templates/assets/css/animsition.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/templates/assets/css/bootstrap.min.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/templates/assets/css/flexslider.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/templates/assets/css/font-awesome.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/templates/assets/css/magnific-popup.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/templates/assets/css/owl.carousel.min.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/templates/assets/css/shortcodes.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/templates/assets/font/fontawesome-webfont.woff2" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/templates/assets/img/bg-row-1.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/templates/assets/img/clients/client-1.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/templates/assets/img/doctors/1-360x300.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/templates/assets/img/doctors/4-360x300.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/templates/assets/img/doctors/5-360x300.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/templates/assets/img/doctors/6-360x300.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/templates/assets/img/icon-1.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/templates/assets/img/icon-2.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/templates/assets/img/icon-3.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/templates/assets/img/logo-footer.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/templates/assets/img/logo@2x.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/templates/assets/img/logotyp.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/templates/assets/img/news/1-370x250.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/templates/assets/img/news/1-80x80.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/templates/assets/img/news/2-370x250.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/templates/assets/img/news/2-80x80.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/templates/assets/img/news/3-370x250.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/templates/assets/img/services/1-270x200.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/templates/assets/img/services/2-270x200.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/templates/assets/img/services/3-270x200.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/templates/assets/img/services/4-270x200.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/templates/assets/img/services/5-270x200.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/templates/assets/img/services/6-270x200.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/templates/assets/img/slider/slider-1.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/templates/assets/img/slider/slider-2.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/templates/assets/js/bootstrap.min.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/templates/assets/js/countTo.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/templates/assets/js/jquery.min.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/templates/assets/js/main.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/templates/assets/js/owl.carousel.min.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/templates/assets/js/plugins.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/templates/assets/js/rev-slider.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/templates/assets/js/shortcodes.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/templates/assets/js/validate.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/templates/helplogo.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/templates/includes/css/layers.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/templates/includes/css/navigation.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/templates/includes/css/settings.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/templates/includes/js/extensions/revolution.extension.actions.min.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/templates/includes/js/extensions/revolution.extension.carousel.min.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/templates/includes/js/extensions/revolution.extension.kenburn.min.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/templates/includes/js/extensions/revolution.extension.layeranimation.min.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/templates/includes/js/extensions/revolution.extension.migration.min.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/templates/includes/js/extensions/revolution.extension.navigation.min.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/templates/includes/js/extensions/revolution.extension.parallax.min.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/templates/includes/js/extensions/revolution.extension.slideanims.min.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/templates/includes/js/extensions/revolution.extension.video.min.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/templates/includes/js/jquery.themepunch.revolution.min.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/templates/includes/js/jquery.themepunch.tools.min.js" afterPath="" />
       <change beforePath="$PROJECT_DIR$/templates/index.html" afterPath="$PROJECT_DIR$/templates/index.html" />
-      <change beforePath="$PROJECT_DIR$/templates/login.html" afterPath="$PROJECT_DIR$/templates/login.html" />
-      <change beforePath="$PROJECT_DIR$/templates/register.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/templates/stash.txt" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/templates/style.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/templates/page-our-doctors.html" afterPath="$PROJECT_DIR$/templates/page-our-doctors.html" />
+      <change beforePath="$PROJECT_DIR$/templates/page-time-table.html" afterPath="$PROJECT_DIR$/templates/page-time-table.html" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -138,13 +17,16 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="DjangoConsoleOptions" custom-start-script="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)">
+    <option name="myCustomStartScript" value="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)" />
+  </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
       <file leaf-file-name="views.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Doctor/views.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="722">
-              <caret line="79" column="55" lean-forward="false" selection-start-line="79" selection-start-column="55" selection-end-line="79" selection-end-column="55" />
+            <state relative-caret-position="170">
+              <caret line="72" column="23" lean-forward="true" selection-start-line="72" selection-start-column="23" selection-end-line="72" selection-end-column="23" />
               <folding>
                 <element signature="e#0#37#0" expanded="true" />
               </folding>
@@ -165,70 +47,38 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/templates/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="216">
-              <caret line="45" column="201" lean-forward="false" selection-start-line="45" selection-start-column="39" selection-end-line="45" selection-end-column="201" />
+            <state relative-caret-position="168">
+              <caret line="89" column="64" lean-forward="false" selection-start-line="89" selection-start-column="64" selection-end-line="89" selection-end-column="64" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="page-time-table.html" pinned="false" current-in-tab="false">
+      <file leaf-file-name="page-time-table.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/templates/page-time-table.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="360">
-              <caret line="40" column="38" lean-forward="false" selection-start-line="40" selection-start-column="38" selection-end-line="40" selection-end-column="38" />
-              <folding>
-                <element signature="e#28939#28945#0#HTML" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="page-blog.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/templates/page-blog.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="235">
-              <caret line="49" column="212" lean-forward="false" selection-start-line="49" selection-start-column="212" selection-end-line="49" selection-end-column="212" />
+            <state relative-caret-position="384">
+              <caret line="165" column="93" lean-forward="true" selection-start-line="165" selection-start-column="93" selection-end-line="165" selection-end-column="93" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="register_.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/templates/register_.html">
+      <file leaf-file-name="forms.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Doctor/forms.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="510">
-              <caret line="44" column="86" lean-forward="false" selection-start-line="44" selection-start-column="0" selection-end-line="45" selection-end-column="0" />
+            <state relative-caret-position="576">
+              <caret line="26" column="47" lean-forward="false" selection-start-line="26" selection-start-column="47" selection-end-line="26" selection-end-column="47" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="register.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/templates/register.html">
+      <file leaf-file-name="models.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Doctor/models.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="366">
-              <caret line="30" column="75" lean-forward="false" selection-start-line="30" selection-start-column="75" selection-end-line="30" selection-end-column="75" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="page-department-detail.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/templates/page-department-detail.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="432">
-              <caret line="43" column="200" lean-forward="false" selection-start-line="43" selection-start-column="200" selection-end-line="43" selection-end-column="200" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="page-our-doctors.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/templates/page-our-doctors.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="410">
-              <caret line="43" column="200" lean-forward="false" selection-start-line="43" selection-start-column="200" selection-end-line="43" selection-end-column="200" />
+            <state relative-caret-position="216">
+              <caret line="9" column="45" lean-forward="false" selection-start-line="9" selection-start-column="45" selection-end-line="9" selection-end-column="45" />
               <folding />
             </state>
           </provider>
@@ -259,6 +109,7 @@
       <find>static</find>
       <find>home</find>
       <find>Home</find>
+      <find>Doctor</find>
     </findStrings>
     <replaceStrings>
       <replace>{% static '</replace>
@@ -277,7 +128,6 @@
         <option value="$PROJECT_DIR$/Family_Doctor/urls.py" />
         <option value="$PROJECT_DIR$/Family_Doctor/settings.py" />
         <option value="$PROJECT_DIR$/templates/signup.html" />
-        <option value="$PROJECT_DIR$/Doctor/models.py" />
         <option value="$PROJECT_DIR$/Doctor/admin.py" />
         <option value="$PROJECT_DIR$/templates/users.html" />
         <option value="$PROJECT_DIR$/templates/register_my.html" />
@@ -292,13 +142,14 @@
         <option value="$PROJECT_DIR$/Doctor/forms.py" />
         <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/Doctor/urls.py" />
-        <option value="$PROJECT_DIR$/Doctor/views.py" />
-        <option value="$PROJECT_DIR$/templates/index.html" />
-        <option value="$PROJECT_DIR$/templates/page-time-table.html" />
         <option value="$PROJECT_DIR$/templates/page-blog.html" />
-        <option value="$PROJECT_DIR$/templates/page-our-doctors.html" />
         <option value="$PROJECT_DIR$/templates/page-department-detail.html" />
         <option value="$PROJECT_DIR$/templates/register.html" />
+        <option value="$PROJECT_DIR$/templates/page-our-doctors.html" />
+        <option value="$PROJECT_DIR$/templates/index.html" />
+        <option value="$PROJECT_DIR$/Doctor/views.py" />
+        <option value="$PROJECT_DIR$/Doctor/models.py" />
+        <option value="$PROJECT_DIR$/templates/page-time-table.html" />
       </list>
     </option>
   </component>
@@ -331,6 +182,7 @@
     </navigator>
     <panes>
       <pane id="Scope" />
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -341,13 +193,12 @@
             <path>
               <item name="Family_Doctor" type="b2602c69:ProjectViewProjectNode" />
               <item name="Family_Doctor" type="462c0819:PsiDirectoryNode" />
-              <item name="templates" type="462c0819:PsiDirectoryNode" />
+              <item name="Doctor" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -418,15 +269,14 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-9" y="-9" width="1938" height="1048" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
-      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3295325" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3295325" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3295325" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3295325" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.28893661" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3104189" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="SciView" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -441,6 +291,28 @@
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
+    <layout-to-restore>
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3295325" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3295325" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3295325" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3104189" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="SciView" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+    </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
@@ -482,9 +354,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="144">
           <caret line="9" column="0" lean-forward="false" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#29#0" expanded="false" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -492,9 +362,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="456">
           <caret line="20" column="44" lean-forward="false" selection-start-line="20" selection-start-column="44" selection-end-line="20" selection-end-column="44" />
-          <folding>
-            <element signature="e#637#669#0" expanded="false" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -535,9 +403,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="144">
           <caret line="9" column="0" lean-forward="false" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#29#0" expanded="false" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -545,9 +411,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="456">
           <caret line="20" column="44" lean-forward="false" selection-start-line="20" selection-start-column="44" selection-end-line="20" selection-end-column="44" />
-          <folding>
-            <element signature="e#637#669#0" expanded="false" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -588,9 +452,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="144">
           <caret line="9" column="0" lean-forward="true" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#29#0" expanded="false" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -598,9 +460,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="456">
           <caret line="20" column="44" lean-forward="false" selection-start-line="20" selection-start-column="44" selection-end-line="20" selection-end-column="44" />
-          <folding>
-            <element signature="e#637#669#0" expanded="false" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -642,9 +502,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
           <caret line="5" column="23" lean-forward="false" selection-start-line="5" selection-start-column="23" selection-end-line="5" selection-end-column="23" />
-          <folding>
-            <element signature="e#0#29#0" expanded="false" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -659,9 +517,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="480">
           <caret line="20" column="44" lean-forward="false" selection-start-line="20" selection-start-column="44" selection-end-line="20" selection-end-column="44" />
-          <folding>
-            <element signature="e#637#669#0" expanded="false" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -686,15 +542,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="186">
           <caret line="213" column="0" lean-forward="false" selection-start-line="213" selection-start-column="0" selection-end-line="213" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Doctor/models.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="9" column="0" lean-forward="false" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -702,7 +549,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="24">
           <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -710,7 +556,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="144">
           <caret line="7" column="49" lean-forward="false" selection-start-line="7" selection-start-column="27" selection-end-line="7" selection-end-column="49" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -718,7 +563,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -726,7 +570,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="96">
           <caret line="4" column="0" lean-forward="false" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -734,7 +577,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="288">
           <caret line="12" column="33" lean-forward="false" selection-start-line="12" selection-start-column="33" selection-end-line="12" selection-end-column="33" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -750,7 +592,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="96">
           <caret line="9" column="44" lean-forward="false" selection-start-line="9" selection-start-column="44" selection-end-line="9" selection-end-column="44" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -758,33 +599,47 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="288">
           <caret line="12" column="0" lean-forward="false" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html" />
+    <entry file="file://$PROJECT_DIR$/1.html" />
+    <entry file="file://$PROJECT_DIR$/templates/page-department-detail.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1032">
+          <caret line="43" column="200" lean-forward="false" selection-start-line="43" selection-start-column="200" selection-end-line="43" selection-end-column="200" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Doctor/forms.py">
+    <entry file="file://$PROJECT_DIR$/templates/register_.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="384">
-          <caret line="26" column="47" lean-forward="false" selection-start-line="26" selection-start-column="47" selection-end-line="26" selection-end-column="47" />
+        <state relative-caret-position="1056">
+          <caret line="44" column="86" lean-forward="false" selection-start-line="44" selection-start-column="0" selection-end-line="45" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
+    <entry file="file://$PROJECT_DIR$/templates/register.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-2134">
-          <caret line="195" column="97" lean-forward="true" selection-start-line="195" selection-start-column="97" selection-end-line="195" selection-end-column="97" />
-          <folding>
-            <element signature="n#style#0;n#iframe#0;n#div#0;n#div#0;n#div#5;n#div#0;n#div#0;n#div#0;n#div#0;n#main#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="e#78791#78797#0#HTML" expanded="false" />
-          </folding>
+        <state relative-caret-position="672">
+          <caret line="28" column="11" lean-forward="false" selection-start-line="28" selection-start-column="11" selection-end-line="28" selection-end-column="11" />
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/1.html">
+    <entry file="file://$PROJECT_DIR$/templates/page-our-doctors.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state relative-caret-position="5928">
+          <caret line="247" column="68" lean-forward="false" selection-start-line="247" selection-start-column="68" selection-end-line="247" selection-end-column="68" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/page-blog.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="24">
+          <caret line="49" column="212" lean-forward="false" selection-start-line="49" selection-start-column="212" selection-end-line="49" selection-end-column="212" />
           <folding />
         </state>
       </provider>
@@ -799,68 +654,42 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/templates/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="45" column="201" lean-forward="false" selection-start-line="45" selection-start-column="39" selection-end-line="45" selection-end-column="201" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/templates/page-time-table.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="40" column="38" lean-forward="false" selection-start-line="40" selection-start-column="38" selection-end-line="40" selection-end-column="38" />
-          <folding>
-            <element signature="e#28939#28945#0#HTML" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/templates/page-blog.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="235">
-          <caret line="49" column="212" lean-forward="false" selection-start-line="49" selection-start-column="212" selection-end-line="49" selection-end-column="212" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/templates/page-our-doctors.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="410">
-          <caret line="43" column="200" lean-forward="false" selection-start-line="43" selection-start-column="200" selection-end-line="43" selection-end-column="200" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/templates/page-department-detail.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="432">
-          <caret line="43" column="200" lean-forward="false" selection-start-line="43" selection-start-column="200" selection-end-line="43" selection-end-column="200" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/templates/register_.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="510">
-          <caret line="44" column="86" lean-forward="false" selection-start-line="44" selection-start-column="0" selection-end-line="45" selection-end-column="0" />
+        <state relative-caret-position="168">
+          <caret line="89" column="64" lean-forward="false" selection-start-line="89" selection-start-column="64" selection-end-line="89" selection-end-column="64" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Doctor/views.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="722">
-          <caret line="79" column="55" lean-forward="false" selection-start-line="79" selection-start-column="55" selection-end-line="79" selection-end-column="55" />
+        <state relative-caret-position="170">
+          <caret line="72" column="23" lean-forward="true" selection-start-line="72" selection-start-column="23" selection-end-line="72" selection-end-column="23" />
           <folding>
             <element signature="e#0#37#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/templates/register.html">
+    <entry file="file://$PROJECT_DIR$/Doctor/forms.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="366">
-          <caret line="30" column="75" lean-forward="false" selection-start-line="30" selection-start-column="75" selection-end-line="30" selection-end-column="75" />
+        <state relative-caret-position="576">
+          <caret line="26" column="47" lean-forward="false" selection-start-line="26" selection-start-column="47" selection-end-line="26" selection-end-column="47" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Doctor/models.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="9" column="45" lean-forward="false" selection-start-line="9" selection-start-column="45" selection-end-line="9" selection-end-column="45" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/page-time-table.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="384">
+          <caret line="165" column="93" lean-forward="true" selection-start-line="165" selection-start-column="93" selection-end-line="165" selection-end-column="93" />
           <folding />
         </state>
       </provider>

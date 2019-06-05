@@ -2,8 +2,9 @@ from django.db import models
 
 # Create your models here.
 
-# class UserProfileInfo(models.Model):
-#     user = models.OneToOneField(User, on_delete=models.CASCADE)
-#
-#     def __str__(self):
-#         return self.user.username
+class Schedule(models.Model):
+    clinic = models.CharField(max_length=150, default='')
+    doctor = models.CharField(max_length=150, default='')
+    time = models.IntegerField()
+    day = models.CharField(max_length=150)
+    status = models.BooleanField(default=True)

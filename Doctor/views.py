@@ -7,7 +7,7 @@ from django.views.generic.edit import FormView
 from django.contrib.auth.forms import UserCreationForm, AuthenticationForm
 from django.contrib.auth.models import User
 from .forms import RegistrationForm
-
+from .models import Schedule
 # Create your views here.
 
 def index(request):
@@ -71,10 +71,12 @@ def profile(request):
     return render(request, 'page-blog.html')
 
 def timetable(request):
-    return render(request, 'page-time-table.html')
+    schedule = Schedule.objects.all()
+    return render(request, 'page-time-table.html', context={'schedule' : schedule})
 
 def our_doctors(request):
     return render(request, 'page-our-doctors.html')
 
 def department(request):
+
     return render(request, 'page-department-detail.html')

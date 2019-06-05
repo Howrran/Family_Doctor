@@ -137,15 +137,25 @@
                                                     <th>Sunday</th>
                                                 </tr>
                                             </thead>
-
+                                        {% block content %}
                                             <tbody>
                                                 <tr>
                                                     <td>
                                                         <span class="time">08:00 - 09:00</span>
                                                     </td>
-                                                    <td rowspan="1" class="event">
-                                                        <span class="room">Any clinic</span>
+                                                    {% for m in schedule %}
+                                                        {% if m.time == 8 %}
+                                                    <td rowspan="1" class="dpt">
+                                                        <span class="room">
+                                                            <span class='dpt'>{{ m.doctor }}</span><br>
+                                                            <span class="dpt">{{ m.clinic }}</span><br>
+                                                            <span class="dpt">{{ m.day }}</span><br>
+                                                                                </span>
                                                     </td>
+                                                        {% endif %}
+                                                    {% endfor %}
+                                                </tr>
+                                                <!--
                                                     <td rowspan="1">
                                                         <span class='dpt'>Clinic 1</span><br><br>
                                                         <span class="doctor">Doctor 1</span>
@@ -162,129 +172,98 @@
                                                     </td>
                                                     <td rowspan="1"></td>
                                                 </tr>
+                                                -->
                                                 <tr>
                                                     <td>
                                                         <span class="time">09:00 - 10:00</span>
                                                     </td>
+
+                                                    {% for m in schedule %}
+                                                    {% if m.time == 9 %}
                                                     <td rowspan="1">
+                                                        <span class='dpt'>{{ m.doctor }}</span><br>
+                                                        <span class="dpt">{{ m.clinic }}</span><br>
+                                                        <span class="dpt">{{ m.day }}</span><br>
+                                                    </td>
+
+                                                    {% endif %}
+                                                {% endfor %}
+                                                    <!-- <td rowspan="1">
                                                         <span class='dpt'>Clinic 4</span><br>
                                                         <span class="doctor">Doctor 4</span>
                                                     </td>
                                                     <td rowspan="1"></td>
-                                                    <td rowspan="1">
-                                                        <span class='dpt'>Clinic 5</span><br>
-                                                        <span class="doctor">Doctor 5</span>
-                                                    </td>
-                                                    <td rowspan="1">
-                                                        <span class='dpt'>Clinic 6</span><br><br>
-                                                        <span class="doctor">Doctor 6</span>
-                                                    </td>
-                                                    <td rowspan="1"></td>
-                                                    <td rowspan="1">
-                                                        <span class='dpt'>Clinic 1</span><br>                                                
-                                                        <span class="doctor">Doctor 7</span><br>
-                                                    </td>
-                                                    <td rowspan="1"></td>
+
+                                                -->
                                                 </tr>
                                                 <tr>
                                                     <td>
                                                         <span class="time">10:00 - 11:00</span>
                                                     </td>
-                                                    <td rowspan="1"></td>
+                                                    {% for m in schedule %}
+                                                        {% if m.time == 10 %}
                                                     <td rowspan="1">
-                                                        <span class='dpt'>Clinic 2</span><br>
-                                                        <span class="doctor">Doctor 8</span>
+                                                        <span class='dpt'>{{ m.doctor }}</span><br>
+                                                        <span class="dpt">{{ m.clinic }}</span><br>
+                                                        <span class="dpt">{{ m.day }}</span><br>
                                                     </td>
-                                                    <td rowspan="1"></td>
-                                                    <td rowspan="1">
-                                                        <span class='dpt'>Clinic 3</span><br>
-                                                        <span class="doctor">Doctor 9</span>
-                                                    </td>
-                                                    <td rowspan="1">
-                                                        <span class='dpt'>Clinic 4</span><br><br>
-                                                        <span class="doctor">Doctor 10</span>
-                                                    </td>                                                    
-                                                    <td rowspan="1"></td>
-                                                    <td rowspan="1">
-                                                        <span class='dpt'>Clinic 5</span><br>                                                
-                                                        <span class="doctor">Doctor 11</span><br>
-                                                    </td>
-                                                </tr>
+
+                                                    {% endif %}
+                                                {% endfor %}
                                                 <tr>
                                                     <td>
                                                         <span class="time">14:00 - 15:00</span>
                                                     </td>
+
+                                                    {% for m in schedule %}
+                                                        {% if m.time == 14 %}
                                                     <td rowspan="1">
-                                                        <span class='dpt'>Clinic 6</span><br>
-                                                        <span class="doctor">Doctor 12</span>
+                                                        <span class='dpt'>{{ m.doctor }}</span><br>
+                                                        <span class="dpt">{{ m.clinic }}</span><br>
+                                                        <span class="dpt">{{ m.day }}</span><br>
                                                     </td>
-                                                    <td rowspan="1">
-                                                        <span class='dpt'>Clinic 1</span><br><br>
-                                                        <span class="doctor">Doctor 1</span>
-                                                    </td>
-                                                    <td rowspan="1"></td>
-                                                    <td rowspan="1">
-                                                        <span class='dpt'>Clinic 2</span><br>
-                                                        <span class="doctor">Doctor 2</span>
-                                                    </td>
-                                                    <td rowspan="1">
-                                                        <span class='dpt'>Clinic 3</span><br>                                                
-                                                        <span class="doctor">Doctor 3</span><br>
-                                                    </td>
-                                                    <td rowspan="1"></td>
-                                                    <td rowspan="1"></td>
+
+                                                    {% endif %}
+                                                {% endfor %}
+
                                                 </tr>
                                                 <tr>
+
                                                     <td>
                                                         <span class="time">15:00 - 16:00</span>
                                                     </td>
+                                                    {% for m in schedule %}
+                                                    {% if m.time == 15 %}
                                                     <td rowspan="1">
-                                                        <span class='dpt'>Clinic 4</span><br>
-                                                        <span class="doctor">Doctor 4</span>
+                                                        <span class='dpt'>{{ m.doctor }}</span><br>
+                                                        <span class="dpt">{{ m.clinic }}</span><br>
+                                                        <span class="dpt">{{ m.day }}</span><br>
                                                     </td>
-                                                    <td rowspan="1"></td>
-                                                    <td rowspan="1">
-                                                        <span class='dpt'>Clinic 5</span><br>
-                                                        <span class="doctor">Doctor 5</span>
-                                                    </td>
-                                                    <td rowspan="1"></td>
-                                                    <td rowspan="1"></td>
-                                                    <td rowspan="1">
-                                                        <span class='dpt'>Clinic 6</span><br>                                                
-                                                        <span class="doctor">Doctor 6</span><br>
-                                                    </td>
-                                                    <td rowspan="1">
-                                                        <span class='dpt'>Clinic 1</span><br><br>
-                                                        <span class="doctor">Doctor 7</span>
-                                                    </td>
+
+                                                    {% endif %}
+                                                {% endfor %}
+
                                                 </tr> 
                                                 <tr>
                                                     <td>
                                                         <span class="time">16:00 - 17:00</span>
                                                     </td>
-                                                    <td rowspan="1"></td>
+                                                    {% for m in schedule %}
+                                                    {% if m.time == 16 %}
                                                     <td rowspan="1">
-                                                        <span class='dpt'>Clinic 2</span><br><br>   
-                                                        <span class="doctor">Doctor 8</span>
+                                                        <span class='dpt'>{{ m.doctor }}</span><br>
+                                                        <span class="dpt">{{ m.clinic }}</span><br>
+                                                        <span class="dpt">{{ m.day }}</span><br>
                                                     </td>
-                                                    <td rowspan="1">
-                                                        <span class='dpt'>Clinic 3</span><br>
-                                                        <span class="doctor">Doctor 9</span>
-                                                    </td>
-                                                    <td rowspan="1"></td>
-                                                    <td rowspan="1">                                                        
-                                                    </td>
-                                                    <td rowspan="1">
-                                                        <span class='dpt'>Clinic 4</span><br>
-                                                        <span class="doctor">Doctor 10</span>
-                                                    </td>
-                                                    <td rowspan="1">                                                        
-                                                        <span class='dpt'>Clinic 5</span><br>                                                
-                                                        <span class="doctor">Doctor 11</span><br>
-                                                    </td>
+
+                                                    {% endif %}
+                                                {% endfor %}
+
                                                 </tr>      
                                             </tbody>
                                         </table><!-- /.timetable -->
+
+                                        {% endblock %}
 
                                         <div class="timetable small">
                                             <h3>Monday</h3>
