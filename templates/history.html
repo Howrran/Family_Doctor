@@ -1,0 +1,75 @@
+{% load static from staticfiles %}
+<!DOCTYPE html>
+<html lang="en">
+<head>
+
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body background="{% static 'historyback.jpg' %}">
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+     body {
+         margin: 0; /* Убираем отступы */
+         height: 0%; /* Высота страницы */
+         background: url({% static 'historyback.jpg'%}); /* Параметры фона */
+         background-size: cover; /* Фон занимает всю доступную площадь */
+     }
+table {
+  width:100%;
+}
+table, th, td {
+  border: 1px #00A8FF;
+  border-collapse: collapse;
+
+}
+th, td {
+  padding: 15px;
+  text-align: left;
+}
+table#t01 tr:nth-child(even) {
+  background-color: deepskyblue;
+}
+table#t01 tr:nth-child(odd) {
+ background-color: lightskyblue;
+}
+table#t01 th {
+  background-color: #00A8FF;
+  color: black;
+}
+</style>
+</head>
+<body>
+
+<h2><center>Disease History</center></h2>
+
+
+<table id="t01">
+  <tr>
+      <th><center>Username</center></th>
+    <th><center>Desease</center></th>
+    <th><center>Date</center></th>
+
+  </tr>
+    {% block content %}
+      {% for h in history %}
+
+  <tr>
+    <td><center>{{ h.username}}</center></td>
+    <td><center>{{ h.desease }}</center></td>
+    <td><center>{{ h.date }}</center></td>
+  </tr>
+
+    {% endfor %}
+{% endblock %}
+
+</table>
+
+</body>
+</html>
+
+
+</body>
+</html>

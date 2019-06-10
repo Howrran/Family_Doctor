@@ -13,6 +13,7 @@ urlpatterns = [
     path('timetable/', views.timetable),
     path('our_doctors/', views.our_doctors),
     path('department/', views.department),
+    path('profile/history', views.history),
     ]
 
 urlpatterns += staticfiles_urlpatterns()

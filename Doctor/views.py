@@ -7,7 +7,7 @@ from django.views.generic.edit import FormView
 from django.contrib.auth.forms import UserCreationForm, AuthenticationForm
 from django.contrib.auth.models import User
 from .forms import RegistrationForm
-from .models import Schedule
+from .models import Schedule, History
 # Create your views here.
 
 def index(request):
@@ -80,3 +80,8 @@ def our_doctors(request):
 def department(request):
 
     return render(request, 'page-department-detail.html')
+
+def history(request):
+    history = History.objects.all()
+    args = {'user': request.user}
+    return render(request, 'history.html', context={'history': history, 'args' : args})
